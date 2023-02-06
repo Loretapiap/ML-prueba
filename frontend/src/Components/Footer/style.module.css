@@ -1,0 +1,14 @@
+.footer {
+    background-color: white;
+}
+
+.link, address {
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+    color: black;
+}
+
+.link:hover {
+    color: black;
+}

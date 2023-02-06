@@ -1,0 +1,22 @@
+.navbar {
+  background-color: #fff159;
+}
+
+.subscribe {
+  max-height: 40px;
+}
+
+.img {
+  height: 15px;
+  filter: grayscale(1);
+}
+@media(min-width: 1024px) {
+  .dropdowncontainer {
+    max-width: 84vw;
+  }
+}
+@media(max-width: 1023px) {
+  .dropdowncontainer {
+    max-width: 55vw;
+  }
+}

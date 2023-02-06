@@ -1,0 +1,15 @@
+{
+  "name": "mercadolibre",
+  "version": "1.0.0",
+  "description": "Prueba técnica Frontend - MercadoLibre",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "author": "Lorena Tapia",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
